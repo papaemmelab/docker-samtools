@@ -1,2 +1,2 @@
 # docker-samtools
-Samtools docker image instructions
+Samtools with libdeflate docker image instructions
